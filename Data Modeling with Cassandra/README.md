@@ -46,7 +46,7 @@ To run the notebook locally you need to install : **`! pip install cassandra-dri
 
 ## 7. Run
 
-Running the file `Project_2.ipynb` will create the tables, and perform the query. 
+Running the file `Project_2.ipynb` will create the tables, and perform the queries. 
 
 
 ## 8. References
