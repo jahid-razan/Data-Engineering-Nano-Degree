@@ -44,12 +44,12 @@ To run the notebook locally you need to install : **`! pip install cassandra-dri
 
 
 
-## 7. Run
+## 6. Run
 
 Running the file `Project_2.ipynb` will create the tables, and perform the queries. 
 
 
-## 8. References
+## 7. References
 
 1. [CREATE TABLE in Apache Cassandra](https://docs.datastax.com/en/archived/cql/3.0/cql/cql_reference/create_table_r.html)
 
