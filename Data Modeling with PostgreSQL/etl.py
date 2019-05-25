@@ -34,9 +34,7 @@ def process_log_file(cur, filepath):
     df_log['year']= df_log['start_time'].dt.year
     df_log['weekday']= df_log['start_time'].dt.weekday_name
     
-    # insert time data records
-    #time_data = 
-    #column_labels = 
+    # insert time data records 
     time_df = df_log[['start_time','hour','day','week', 'month', 'year', 'weekday']]
 
     for i, row in time_df.iterrows():
